@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.microservices</groupId>
-	<artifactId>crudJavaPaises</artifactId>
+	<artifactId>adsilvam</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>crudJavaPaises</name>
+	<name>adsilvam</name>
 	<description>crud en Java by Daniela</description>
 	<url/>
 	<licenses>
